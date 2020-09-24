@@ -3,8 +3,8 @@
 이 보고서는 자랭기준 브~실 구간 4판 승률100% 정글볼베장인이 작성하였습니다.   
 __"끝까지 가면 내가 다 이겨....."__  
 볼리베어는 리메이크 이후 다양하게 연구되었습니다. 제가 써본 결과, 지속되는 싸움에서 동일템 기준 볼리베어와 1대1로 이길 수 있는 정글챔은 없습니다.
-지금부터 그 강력함을 말씀드리겠습니다.
-##목차
+지금부터 그 강력함을 말씀드리겠습니다.  
+#목차
 + 스펠
 + 룬
 + 스킬트리
@@ -15,15 +15,16 @@ __"끝까지 가면 내가 다 이겨....."__
 __!!!!!!주의!!!!!!!__   
 __이 공략을 보고 입은 피해에 대해서는 절대 배상하지 않습니다.__
 
-###스펠
-![볼리베어 스펠](https://t1.daumcdn.net/cfile/blog/252A924755CA9D191C)
+#스펠  
+![볼리베어 스펠](https://t1.daumcdn.net/cfile/blog/252A924755CA9D191C)  
 스펠의 경우 무난하게 강타 점멸(F)입니다. 무조건 점멸(F)입니다.
-###룬
-![볼리베어 룬](https://mblogthumb-phinf.pstatic.net/MjAyMDA2MjBfMTEg/MDAxNTkyNjU0NzYyMjE4.mSTeHcwUtyQgUX5De6kTevePObWXC7AENN6-FCv0fb4g.hjN41oZBkcYeZhrwxIYeU_bmfbBLM7Xn6VVEeAEtod8g.JPEG.dbsgns2011/%EB%B3%BC%EB%B2%A0_1.jpg?type=w800)
-룬 같은 경우 핵심은 "정복자"입니다. "정복자"룬의 경우 기본공격 3번을 때리면 적의 약점이 노출되며, 6~12%의 추가피해를 줍니다. 볼리베어의 경우 싸움이 지속될 수록 유리하기때문에 정복자는 지속되는 싸움에서 우위를 점할 수 있게 해줍니다.  
+#룬  
+![볼리베어 룬](https://mblogthumb-phinf.pstatic.net/MjAyMDA2MjBfMTEg/MDAxNTkyNjU0NzYyMjE4.mSTeHcwUtyQgUX5De6kTevePObWXC7AENN6-FCv0fb4g.hjN41oZBkcYeZhrwxIYeU_bmfbBLM7Xn6VVEeAEtod8g.JPEG.dbsgns2011/%EB%B3%BC%EB%B2%A0_1.jpg?type=w800)  
+룬 같은 경우 핵심은 "정복자"입니다. "정복자"룬의 경우 기본공격 3번을 때리면 적의 약점이 노출되며, 6~12%의 추가피해를 줍니다.   
+볼리베어의 경우 싸움이 지속될 수록 유리하기때문에 정복자는 지속되는 싸움에서 우위를 점할 수 있게 해줍니다.    
 보조 룬의 경우 "빛의 망토"를 들어, 점멸스펠과 함께 상대를 쫓을 때 용이합니다.   "물위를 걷는자"룬은 바위게 싸움에서 우위를 점할 수 있게 도와줍니다.
 
-###스킬트리
+#스킬트리  
 먼저 스킬에 대해 알아보겠습니다. 참고만 하세요!  
 
 __Q 번개 강타 (Rolling Thunder)__  
@@ -46,21 +47,21 @@ __R 폭풍을 부르는 자 (Thunder Claws)__
 볼리베어가 변신 후 지정한 위치로 도약합니다. 12초 동안 체력이 300/500/700, 공격 사거리가 50 증가하며 다른 유닛을 통과할 수 있습니다.
 착지 시 근처 적 포탑이 3/4/5초 동안 비활성화되며 250/475/700(+2.5AD)(+1.25AP)의 물리피해를 입습니다. 근처 적은 50% 둔화했다가 1초에 걸쳐 원래대로 돌아옵니다. 볼리베어 바로 아래에 있는 적은 250/475/700(+2.5AD)(+1.25AP)의 물리 피해를 입습니다.
 
-![볼리베어 스킬](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA2MDNfMTg5%2FMDAxNTkxMTQ3OTk1Nzcw.pt-LIxiX7xDIr_hGwLy9po8J15F_zZ8cx8CD7Wc0xMsg.4Xvb8yt8MLfhqNte22jufocP95xqZh6etvzv3WAESMgg.PNG.thdbdlaeo%2F%25BF%25EC%25B8%25A3%25C7%25C1%2B%25BA%25BC%25B8%25AE%25BA%25A3%25BE%25EE%2B%25B7%25E9%2B%25C5%25DB%25C6%25AE%25B8%25AE%2B%25BE%25C6%25C0%25CC%25C5%25DB%2B%25BD%25BA%25C5%25B3%2B%25B0%25F8%25B7%25AB%2B%25A3%25B5.png&type=sc960_832)
+![볼리베어 스킬](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA2MDNfMTg5%2FMDAxNTkxMTQ3OTk1Nzcw.pt-LIxiX7xDIr_hGwLy9po8J15F_zZ8cx8CD7Wc0xMsg.4Xvb8yt8MLfhqNte22jufocP95xqZh6etvzv3WAESMgg.PNG.thdbdlaeo%2F%25BF%25EC%25B8%25A3%25C7%25C1%2B%25BA%25BC%25B8%25AE%25BA%25A3%25BE%25EE%2B%25B7%25E9%2B%25C5%25DB%25C6%25AE%25B8%25AE%2B%25BE%25C6%25C0%25CC%25C5%25DB%2B%25BD%25BA%25C5%25B3%2B%25B0%25F8%25B7%25AB%2B%25A3%25B5.png&type=sc960_832)  
 사진과 같이 스킬트리는 W-Q-E 순으로 가시면 됩니다.  
-W 스킬의 경우 볼리베어가 지속된 싸움에서 우위를 점할 수 있게 도와줍니다. 이 W스킬의 사기성은 싸움이 5초 이상 지속될 때 발휘됩니다.
-W 스킬을 사용하면, 표식이 남고 이 표식이 남은 상대는 데미지가 50% 증가하는데 심지어 추가체력의 6% 이기때문에 탱템을 가도 위협적인 딜을 뽑아냅니다.
-정말 사기적인 부분은 딜링부분도 있지만, 바로 표식이 남은 상대에게 다시 해당 스킬을 사용할 경우 사기적인 피흡이 된다는 것입니다. 이는 정글링할때도, 교전을 할 때도 정말 유용하게 쓰입니다.
+W 스킬의 경우 볼리베어가 지속된 싸움에서 우위를 점할 수 있게 도와줍니다. 이 W스킬의 사기성은 싸움이 5초 이상 지속될 때 발휘됩니다.  
+W 스킬을 사용하면, 표식이 남고 이 표식이 남은 상대는 데미지가 50% 증가하는데 심지어 추가체력의 6% 이기때문에 탱템을 가도 위협적인 딜을 뽑아냅니다.  
+정말 사기적인 부분은 딜링부분도 있지만, 바로 표식이 남은 상대에게 다시 해당 스킬을 사용할 경우 사기적인 피흡이 된다는 것입니다. 이는 정글링할때도, 교전을 할 때도 정말 유용하게 쓰입니다.  
 따라서 죽어도 W선 입니다.  
 
 Q 스킬의 경우 돌진형 확정CC기 이기때문에 난이도도 쉽고, 이동속도도 빨라지기 때문에 접근하기도 쉬워져 그다음으로 Q를 찍습니다.  
 
 E 스킬의 경우 ap계수가 붙기에 탱템을 가는 볼리베어이기에 효율이 좋진 않습니다. 또 스킬을 연계하지 않으면 맞추기도 어려워 마지막으로 E를 찍어줍니다. 
 
-R 스킬의 경우, 사용즉시 모든 방해효과를 무시하고, 착지 시 엄청난 데미지, 포탑 무력화 등 아주 유용합니다. 당연히 꾸준히 찍어주어야 합니다.
+R 스킬의 경우, 사용즉시 모든 방해효과를 무시하고, 착지 시 엄청난 데미지, 포탑 무력화 등 아주 유용합니다. 당연히 꾸준히 찍어주어야 합니다.  
 
-###템트리
-![볼리베어 템트리](https://lh3.googleusercontent.com/proxy/eP572SSlGZuzKeozwNk7Cf_GAHKzb602b_Ube8gE6bs03bX--sxA_swplnbSqmYXlmU6jduV1103RMreli9QejjN1utjvPJQbkwVmnAnQYFZsgUhrcVY5SBHxdEXTdJQZ3jOHXGFiyRh1V6WibfHiOCP1RzcJaMzyEIGiQmZRwIu2VQqAn1fQTppPjFeA_mpH5pGgw8JKrPCeA-87UuSeTAmkDd-45htoeNqfpsL2txS54DZxwUHWm9vAqZmCGPce9dJ0duoofcOepH6liEsVn_Jmbt1lQxZdddPxWqtCsku9Vzzkyc3z5dG5Cpm3zgj3VSAQQ)
+#템트리  
+![볼리베어 템트리](https://lh3.googleusercontent.com/proxy/eP572SSlGZuzKeozwNk7Cf_GAHKzb602b_Ube8gE6bs03bX--sxA_swplnbSqmYXlmU6jduV1103RMreli9QejjN1utjvPJQbkwVmnAnQYFZsgUhrcVY5SBHxdEXTdJQZ3jOHXGFiyRh1V6WibfHiOCP1RzcJaMzyEIGiQmZRwIu2VQqAn1fQTppPjFeA_mpH5pGgw8JKrPCeA-87UuSeTAmkDd-45htoeNqfpsL2txS54DZxwUHWm9vAqZmCGPce9dJ0duoofcOepH6liEsVn_Jmbt1lQxZdddPxWqtCsku9Vzzkyc3z5dG5Cpm3zgj3VSAQQ)  
 템트리같은 경우에는   
 정글 템 의 경우에는 파랑강타를 갑니다. 볼리베어 특성상 도주기, 이동기가 없기 때문에 상대의 이동속도를 늦추는 파랑강타는 갱킹에서 필수적으로 사용됩니다.  
 전투의 양상이 대부분 근접에서 이루어지기에 잿불거인 효과를 가는 것이 효과적입니다.  
@@ -75,7 +76,7 @@ R 스킬의 경우, 사용즉시 모든 방해효과를 무시하고, 착지 시
 
 이후 템은 생존에 초점을 맞추고 유동적으로 가줍니다.
 
-###동선 및 운영방식
+#동선 및 운영방식  
 볼리베어는 강력한 W 스킬로 인해 정글링속도도 준수한 편에 속합니다. 또, 초반 3~4렙구간 굉장히 강력합니다. 정글 어느 쪽에서 시작하던, 일단 풀캠프를 돕니다.
 따라서 풀 캠프 동선 이후 적극적으로 바위게 싸움을 주도해야합니다.   
 조금이라도 더 유리한 라인 쪽에 붙어서 싸움을 열면 볼리베어를 1대1로 이길 챔프는 거의 없기때문에 이득을 볼 수 있습니다.   
@@ -84,22 +85,24 @@ __그렇기 때문에 교전을 자주 여는 것이 볼리베어의 핵심입�
 한타에 참여하여 CC기를 이용해 주요딜러들을 물어주고, 어그로를 끌어주며 탱킹을 주로 맡지만 그럼에도 원딜을 짜를 수 있을만큼 딜을 낼 수 있기 때문에 딜도 야무지게 넣어줍니다.
 이후 오브젝트를 놓치지않으며 한타에서 승리하여 게임을 승리로 이끌어가는 것이 운영방식입니다.
 
-###전투
+#전투  
 볼리베어는 전투에서 굉장히 강력합니다. 또 난이도도 쉬워 쉽게 제 성능을 100% 발휘할 수 있습니다.
 볼리베어의 콤보는 이렇습니다.  
-####Q - E (Q 발동과 거의 동시에) - 평 - W(평타 모션을 캔슬하며) - 평 이후 (평-W) 반복  
+__Q - E (Q 발동과 거의 동시에) - 평 - W(평타 모션을 캔슬하며) - 평 이후 (평-W) 반복__  
 Q 스킬을 통해 접근한 뒤, Q 스킬로 상대를 찍음과 동시에 E 스킬을 써주면, 상대에게 E 의 딜을 넣으며, E스킬의 보호막을 얻을 수 있습니다.
 그 뒤 최대한 딜을 욱여넣기 위해 평타를 치고 평타 딜이 들어갔을 때 바로 W 스킬을 사용해줌 으로써 딜 로스를 없애주고
 이후 딜이 모자라 상대를 짜르지 못한다면 R 스킬로 뒤를 쫓아가거나, 포탑 다이브를 진행하면 됩니다. 
 혹은 너무 과감한시도였다 싶으면 R스킬이 방해효과를 무시하기 때문에 도주할 때 이용해도 됩니다. 
 정글 몹 한테도 동일하게 스킬콤보를 넣으면 됩니다.
 
-###스킨
-볼리베어는 스킨이 총 6개가 있습니다 그 중 하나는 은퇴했기에 지금 구매할 수 있는 스킨은 총 5개입니다.
-어차피 볼리베어 스킨은 이펙트가 거의 똑같습니다. 그렇기에 제가 추천드리는 스킨은
+#스킨
+볼리베어는 스킨이 총 6개가 있습니다 그 중 하나는 은퇴했기에 지금 구매할 수 있는 스킨은 총 5개입니다.  
+어차피 볼리베어 스킨은 이펙트가 거의 똑같습니다. 그렇기에 제가 추천드리는 스킨은  
 ![볼리베어 경위](https://blog.kakaocdn.net/dn/bmvbdb/btqD54karzz/qaNXaf8lv2L9kdiewQJHB1/img.jpg)  
-####볼리베어 경위 스킨입니다.  
+__볼리베어 경위 스킨입니다.__  
 이 스킨의 경우 Q 스킬을 사용할때 등 뒤에있는 경광봉이 반짝이며, 사이렌소리가 굉장히 인상적입니다.
 또 뒤태가 상당히 귀여워 매력적인 스킨입니다.
+
+__볼리베어라면 브실골탈출 해낼 수 있습니다 아마....__
 
 
